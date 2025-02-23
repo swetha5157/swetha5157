@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on building awesome innovative projects based on MERN stack
 - 🌱 I’m currently learning DSA and full stack 
 - 📫 How to reach me:
-   * ✉️ swethasuresh799@gmail.com
-   * 🔗 https://www.linkedin.com/in/swetha-s-797a26259/
+   * [![LinkedIn](https://img.shields.io/badge/LinkedIn-@Swetha_S-0077B5.svg?style=flat&logo=linkedin)](https://www.linkedin.com/in/swetha-s-797a26259)
+   * [![Gmail](https://img.shields.io/badge/Gmail-Swetha_S-D14836.svg?style=flat&logo=gmail)](mailto:swethasuresh799@gmail.com)
 ## 🛠 Tech Stack
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -31,4 +31,4 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swetha5157&show_icons=true&theme=radical)
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=swetha5157&bg_color=000000&color=14e2e6&line=14e2e6&point=14e2e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=swetha5157&bg_color=000000&color=14e2e6&line=14e2e6&point=14e2e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
